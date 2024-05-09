@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\recursos-csharp\\ExtensionMethods\\ExtensionMethods.csproj",
-      "projectName": "ExtensionMethods",
-      "projectPath": "D:\\dev\\recursos-csharp\\ExtensionMethods\\ExtensionMethods.csproj",
+      "projectUniqueName": "D:\\dev\\recursos-csharp\\Generics\\Generics.csproj",
+      "projectName": "Generics",
+      "projectPath": "D:\\dev\\recursos-csharp\\Generics\\Generics.csproj",
       "packagesPath": "C:\\Users\\henrique.giaretta\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\recursos-csharp\\ExtensionMethods\\obj\\",
+      "outputPath": "D:\\dev\\recursos-csharp\\Generics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henrique.giaretta\\AppData\\Roaming\\NuGet\\NuGet.Config"
